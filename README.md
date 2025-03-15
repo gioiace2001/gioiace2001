@@ -1,6 +1,6 @@
 <!-- havey -->
 <a href="#" target="_blank">
-  <img src="svg/havey.svg" width="1200" alt="Havey Nguyen" />
+  <img src="svg/havey.svg" width="1200" alt="Ace Nguyen" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
